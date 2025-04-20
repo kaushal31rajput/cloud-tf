@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hello
-        image: us-central1-docker.pkg.dev/load-balancer-452617/k8/hello-docker-k8s-updated
+        image: us-central1-docker.pkg.dev/load-balancer-452617/k8/sunday-image
         ports:
         - containerPort: 5000
